@@ -1,0 +1,24 @@
+footer {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  padding-top: 40px;
+  position: fixed;
+  bottom: 0;
+  text-align: center; 
+  background-color: rgb(193, 203, 222);
+  color: rgb(255, 255, 255);
+  z-index: 0;
+  width: 100%;
+}
+main{
+  padding-top: 0px;
+  position: relative;
+  background-color: white;
+  z-index: 1;
+  margin-bottom: 200px;
+}
+
+.carousel-caption{
+  background-color: rgba(0, 0, 0, 0.15);
+}
